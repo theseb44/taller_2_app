@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">taller 2 app</string>
+    <string-array name="operaciones">
+        <item>Distancia entre puntos</item>
+        <item>Pendiente</item>
+        <item>Punto medio</item>
+    </string-array>
+</resources>
